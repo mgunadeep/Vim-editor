@@ -2,7 +2,7 @@
 # It can also create a file(if it doesn't exist) and then opens it. 
 # You can also use -r as an option in addition to vim, to open it only in a read-only state. You're better off with cat, if you really want so. Again, its linux you can work around in different ways.
 
-# <!-- To become proficient in the Vi/Vim editor, here are some additional essential concepts and commands to learn:
+# To become proficient in the Vi/Vim editor, here are some additional essential concepts and commands to learn:
 # 1. Modes:
 #     * Vi/Vim has different modes:
 #     * Normal Mode: The default mode for navigating and executing commands.
@@ -74,4 +74,4 @@
 #     * Move to the middle line of the screen: M
 #     * Move to the bottom line of the screen: L
 #     * To go to the beginning of the page: gg
-#     * To go to the end of the page.  -->
+#     * To go to the end of the page: shift g

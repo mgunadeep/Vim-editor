@@ -3,7 +3,7 @@
 # You can also use -r as an option in addition to vim, to open it only in a read-only state. 
 # To become proficient in the Vi/Vim editor, here are some additional essential concepts and commands to learn:
 # 1. Modes:
-<<COMMENT
+: <<COMMENT
     * Vi/Vim has different modes:
     * Normal Mode: The default mode for navigating and executing commands.
     * Insert Mode: Allows you to insert and edit text.
